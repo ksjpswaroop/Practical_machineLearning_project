@@ -1,4 +1,4 @@
 ## Practical Machine Learning Course Project
 
 
-Please, follow this [http://emilioserra.github.io/datasciencecoursera](http://emilioserra.github.io/datasciencecoursera)
+Please, follow this [https://github.com/ksjpswaroop/Practical_machineLearning_project)
