@@ -248,7 +248,7 @@ model_lda &lt;-train(classe ~ ., method = &#39;lda&#39;, data = trainingPartitio
 </code></pre>
 
 <h2>Studying accuracy</h2>
-
+ 
 <p>After using the testing data to make predictions with the models calculated and showing the confusion matrix for each model; the accuracy returned for random forest, boosted trees and linear discriminant analysis are 99%, 96% and 69\%. Therefore, the random forest model is the most promising model to be optimized with cross validation.  This was the expected output since random forest was the most complex technique evaluated because it combines a number of classifiers. </p>
 
 <pre><code class="r">print(&quot;Random forest accuracy &quot;)
