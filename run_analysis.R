@@ -1,7 +1,7 @@
 library(caret)
 library(parallel)
 library(doParallel)
-
+# Project writeup
 loadData<-function(){
   #remove variables 
   #rm(list = ls())
